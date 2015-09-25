@@ -1,0 +1,1 @@
+web: gunicorn kwang.wsgi --log-file -
