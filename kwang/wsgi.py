@@ -16,4 +16,4 @@ application = Cling(get_wsgi_application())
 
 os.environ.setdefault("DJANGO_SETTINGS_MODULE", "kwang.settings")
 
-# application = get_wsgi_application()
+application = get_wsgi_application()
