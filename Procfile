@@ -1,1 +1,1 @@
-web: gunicorn kwang.wsgi --log-file -
+web: gunicorn myapp.wsgi --log-file -
